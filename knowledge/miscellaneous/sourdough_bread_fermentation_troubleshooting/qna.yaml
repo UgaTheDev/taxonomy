@@ -1,0 +1,55 @@
+version: 3
+domain: miscellaneous
+task_description: test instructlab sourdough update
+created_by: ugathedev
+seed_examples:
+- question: What is sourdough bread fermentation troubleshooting?
+  answer: Sourdough bread fermentation troubleshooting is the systematic process of
+    identifying and correcting imbalances in the biological activity of wild yeast
+    and lactic acid bacteria (LAB). Unlike commercial baking, it involves analyzing
+    how variables like temperature, hydration, and microbial "momentum" affect the
+    rate at which sugars are converted into gases and organic acids. It is essentially
+    the art of diagnosing why a living system didn't behave as predicted by a static
+    recipe.
+- question: How would you define sourdough bread fermentation troubleshooting?
+  answer: It is defined as the diagnostic practice of evaluating the structural and
+    flavor outcomes of a loaf against the fermentation timeline. It focuses on the
+    "Time Complexity" of the bake—understanding that fermentation is not linear but
+    exponential. Troubleshooting requires distinguishing between mechanical errors
+    (shaping/scoring) and biological errors (under-proofing/over-proofing) caused
+    by environmental fluctuations.
+- question: Can you explain what sourdough bread fermentation troubleshooting means?
+  answer: In practice, it means moving away from "clock-based" baking and toward "signal-based"
+    observation. It is the bridge between a baker’s expectations and the reality of
+    their kitchen environment. When a loaf fails, troubleshooting means tracing the
+    issue back to a specific phase—usually the starter health, the bulk fermentation
+    temperature, or the acidity levels—to ensure the next bake reaches its peak volume
+    and desired crumb structure.
+- question: What are the steps involved in sourdough bread fermentation troubleshooting?
+  answer: 'The process involves four key steps:
+
+    Observation: Analyzing the "crumb" (interior) and "oven spring" (height) of the
+    finished loaf.
+
+    Variable Isolation: Reviewing data points such as ambient kitchen temperature,
+    water temperature, and the "aliquot" growth percentage.
+
+    Phase Identification: Determining if the failure occurred during Bulk Fermentation
+    (80% of issues) or the Final Proof.
+
+    Adjustment: Implementing "signal-based" markers, such as waiting for the dough
+    to look jiggly and aerated rather than simply waiting for a timer to go off.'
+- question: What are common problems with sourdough bread fermentation troubleshooting?
+  answer: 'The most common problems stem from miseducation and assumptions, including:
+
+    The "False Clock" Fallacy: Relying on recipe times rather than the actual growth
+    of the dough.
+
+    Acidity Overload: Using a starter past its peak, which introduces too much acid
+    and degrades the gluten (proteolysis), leading to a "soupy" dough.
+
+    Hydration Hubris: Attempting high-water recipes before mastering the fermentation
+    signals of a standard 70% hydration dough.
+
+    Temperature Blindness: Failing to realize that a \(5^{\circ }\)C drop in kitchen
+    temperature can double the required fermentation time.'
