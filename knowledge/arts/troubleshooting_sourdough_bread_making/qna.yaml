@@ -1,0 +1,34 @@
+version: 3
+domain: arts
+task_description: sourdough education to LLM
+created_by: ugathedev
+seed_examples:
+- question: What is troubleshooting sourdough bread making?
+  answer: Troubleshooting sourdough bread making is the systematic process of diagnosing
+    why a loaf didn't turn out as expected. It involves evaluating the entire lifecycle
+    of the bread—from the starter's health to the final bake—to identify where the
+    biological or mechanical process deviated from the goal.
+- question: How would you define troubleshooting sourdough bread making?
+  answer: It is defined as the targeted analysis of variables (temperature, time,
+    hydration, and microbial activity) to correct inconsistencies. It is the bridge
+    between following a recipe and mastering the "feel" of the dough, allowing a baker
+    to adapt to changing environmental conditions.
+- question: Can you explain what troubleshooting sourdough bread making means?
+  answer: Essentially, it means deciphering the language of the dough. It is the practice
+    of using visual and tactile clues—like the size of air bubbles or the strength
+    of the gluten—to understand why a loaf might be too dense, too sour, or failing
+    to rise, and then applying a specific fix.
+- question: What are the steps involved in troubleshooting?
+  answer: "* Audit the Starter: Ensure the culture is doubling in size within 4–6\
+    \ hours of feeding.\n    * Track Temperatures: Measure the \"Desired Dough Temperature\"\
+    \ (DDT) to ensure fermentation speed is controlled.\n    * Perform a \"Post-Mortem\"\
+    : Cut the loaf and analyze the hole structure (the crumb) to see if it was under-\
+    \ or over-fermented.\n    * Adjust One Variable: Change only one factor (like\
+    \ the bulk fermentation time) in the next batch to isolate the solution."
+- question: What are common problems with troubleshooting?
+  answer: "* Under-fermentation: Leads to a \"dense\" base with large, uneven holes\
+    \ at the top.\n    * Over-fermentation: Results in a \"collapsed\" or flat loaf\
+    \ because the gluten structure was destroyed by acidity.\n    * Weak Gluten: Causes\
+    \ the dough to spread into a puddle instead of holding a tall, rounded shape.\n\
+    \    * Temperature Fluctuations: Kitchens that are too cold stall the yeast, while\
+    \ kitchens that are too hot can lead to accidental over-proofing."
