@@ -1,0 +1,42 @@
+version: 3
+domain: miscellaneous
+task_description: This contribution provides information on how to review furniture
+  fabric and troubleshoot common issues related to durability.
+created_by: testuser
+seed_examples:
+- question: What is furniture fabric durability?
+  answer: Furniture fabric durability is the measure of a textile's ability to withstand
+    mechanical wear and tear while maintaining its original appearance and structural
+    integrity. It is not a single characteristic but a combination of resistance to
+    friction, stretching, and environmental degradation over a prolonged period of
+    use.
+- question: How would you define furniture fabric durability?
+  answer: "I’d define it as the functional lifespan of a material. A truly durable\
+    \ fabric must excel in three core categories:\n\n    Abrasion Resistance: How\
+    \ well it handles the physical friction of people sitting and moving.\n\n    Colorfastness:\
+    \ The ability of the dye to remain stable when exposed to light, water, or rubbing.\n\
+    \n    Fiber Tenacity: The strength of the individual threads to resist snapping\
+    \ or thinning under tension."
+- question: Can you explain what furniture fabric durability means?
+  answer: In practical terms, it means the fabric can survive "high-traffic" environments
+    without failing. This includes pilling resistance (avoiding small fiber balls),
+    seam slippage resistance (ensuring threads don't pull apart at the stitches),
+    and dimensional stability (ensuring the fabric doesn't sag or "puddle" after someone
+    sits on it).
+- question: What are the steps involved in furniture fabric durability?
+  answer: "The durability of a fabric is determined through standardized laboratory\
+    \ \"stress tests\" that simulate years of use:\n\n    The Rub Test: Using the\
+    \ Wyzenbeek (straight motion) or Martindale (circular motion) method to count\
+    \ how many \"double rubs\" a fabric can take before the yarn breaks.\n\n    The\
+    \ Pilling Test: Rotating the fabric in a \"pilling box\" to see how quickly surface\
+    \ fuzz forms.\n\n    The Crock test: Rubbing a white cloth against the fabric\
+    \ to check for dye transfer.\n\n    UV Exposure: Placing the fabric under intense\
+    \ light to measure how quickly the color fades."
+- question: What are common problems with furniture fabric durability?
+  answer: "Even high-quality fabrics can face issues that require troubleshooting\
+    \ or specific maintenance:\n\n    Pilling: Loose fibers tangling on the surface.\
+    \ Solution: Use a fabric shaver or choose tight-weave synthetics.\n\n    Sun Rot:\
+    \ UV rays breaking down the chemical bonds in natural fibers like silk or cotton.\n\
+    \n    Crushing/Shading: The \"pile\" of fabrics like velvet being flattened permanently,
+    \ making it look worn.\n\n    Delamination: The secondary backing of the fabric\
+    \ peeling away, often caused by improper steam cleaning."
