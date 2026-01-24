@@ -1,0 +1,4 @@
+Title: This contribution provides information on how to review furniture fabric and troubleshoot common issues related to durability.
+Creator: testuser
+Source: Original contribution
+License: Apache-2.0
