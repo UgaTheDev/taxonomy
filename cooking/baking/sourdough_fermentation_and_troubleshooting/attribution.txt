@@ -1,0 +1,4 @@
+Title: This contribution provides detailed knowledge on troubleshooting common issues in sourdough fermentation, focusing on the impact of temperature and time, identifying signs of over- and under-fermentation, understanding starter activity, correcting acidity imbalances, and the importance of ambient environment and desired dough temperature.
+Creator: UgaTheDev
+Source: Original contribution
+License: Apache-2.0
